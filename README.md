@@ -20,12 +20,12 @@ flutter_demo_app_2 est une application mobile développée avec Flutter et Dart,
 
 <table>
   <tr>
-    <td><img src="assets/images/imgs/homepage.png" width="200"/></td>
-    <td><img src="assets/images/imgs/counter.png" width="200"/></td>
-    <td><img src="assets/images/imgs/contacts.png" width="200"/></td>
-    <td><img src="assets/images/imgs/weather.png" width="200"/></td>
-    <td><img src="assets/images/imgs/gallery.png" width="200"/></td>
-    <td><img src="assets/images/imgs/interface.png" width="200"/></td>
+    <td><img src="assets/images/img/homepage.png" width="200"/></td>
+    <td><img src="assets/images/img/counter.png" width="200"/></td>
+    <td><img src="assets/images/img/contacts.png" width="200"/></td>
+    <td><img src="assets/images/img/weather.png" width="200"/></td>
+    <td><img src="assets/images/img/gallery.png" width="200"/></td>
+    <td><img src="assets/images/img/interface.png" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Drawer Menu</b></td>
